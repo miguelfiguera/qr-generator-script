@@ -1,7 +1,7 @@
 import qrcode
 
 # URL you want to encode
-url = 'https://www.thedigitallab.dev'
+url = 'https://www.psicoelia.com'
 
 # Create a QR code object
 qr = qrcode.QRCode(
