@@ -1,8 +1,4 @@
-# Binarios compilados
-qr-generator
-qr-generator.exe
-
-# Dependencias de Go
+# Dependencias de Go (se genera automáticamente)
 go.sum
 
 # Archivos temporales

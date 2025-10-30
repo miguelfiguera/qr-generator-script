@@ -53,4 +53,15 @@ Para instrucciones detalladas de instalación y uso de la versión Go, consulta 
 
 ---
 
+## ⚠️ Nota Importante
+
+**Para generar QR codes de páginas web:** Asegúrate de incluir el protocolo completo en la URL (ej: `https://www.ejemplo.com`). Sin el protocolo, los lectores de QR mostrarán el contenido como texto simple en lugar de un link clickeable.
+
+✅ Correcto: `https://www.ejemplo.com`
+❌ Incorrecto: `www.ejemplo.com` o `ejemplo.com`
+
+Esto aplica para ambas versiones (Python y Go).
+
+---
+
 You can toy with it as much as you like.
